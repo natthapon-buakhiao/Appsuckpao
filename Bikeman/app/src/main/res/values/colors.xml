@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="backgroundColor">#E0E0E0</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#0F2027</color>
+    <color name="colorAccent">#c31432</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorTabSelected">#ffffff</color>
+    <color name="colorTab">#2c5364</color>
+    <color name="colorGray">#DDDDDD</color>
+    <color name="colorEditText">#e8e8e8</color>
+    <color name="colorCard">#ffffff</color>
+    <color name="background">#eaeaea</color>
+    <color name="backgroundcard">#d6d6d6</color>
+    <color name="bgCard">#ffffff</color>
+    <color name="orangcoverPrimary">#FF5722</color>
+    <color name="orangcoverPrimaryDark">#AF3C1B</color>
+    <color name="orangcoverAccent">#D81B60</color>
+    <color name="graytext">#C7C7C7</color>
+    <color name="green1but">#1CE595</color>
+    <color name="green2but">#43C0AB</color>
+
+    <color name="blue"  >#33B5E5</color>
+    <color name="purple" >#FFAA66CC</color>
+    <color name="green" >#99cc00</color>
+    <color name="orange"  >#FFFFBB33</color>
+    <color name="red"  >#FFFF4444</color>
+    <color name="darkblue"  >#FF0099CC</color>
+    <color name="darkpurple"  >#FF9933CC</color>
+    <color name="darkgreen"  >#669900</color>
+    <color name="darkorange"  >#FFFF8800</color>
+    <color name="darkred"  >#FFCC0000</color>
+    <color name="customeblue"  >#3b5998</color>
+    <color name="lowDarkfont"  >#5D070E07</color>
+</resources>
