@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/mynum"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="118dp"
+        android:text="TextView"
+        android:textColor="@color/blue"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/showmyNum"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/showmyNum" />
+
+    <TextView
+        android:id="@+id/mylaundry"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="118dp"
+        android:layout_marginEnd="36dp"
+        android:text="TextView"
+        android:textColor="@color/blue"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/showmyLaundry"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/showmyLaundry" />
+
+    <TextView
+        android:id="@+id/mystore"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="118dp"
+        android:text="TextView"
+        android:textColor="@color/blue"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/showmyName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/showmyName" />
+
+    <TextView
+        android:id="@+id/mystatus"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="118dp"
+        android:text="TextView"
+        android:textColor="@color/blue"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/showmyStatus"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/showmyStatus" />
+
+    <TextView
+        android:id="@+id/myreplace"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="118dp"
+        android:text="TextView"
+        android:textColor="@color/blue"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/showmyplace"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/showmyplace" />
+
+    <TextView
+        android:id="@+id/mydetail"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="118dp"
+        android:text="TextView"
+        android:textColor="@color/blue"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/showmydetail"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/showmydetail" />
+
+    <TextView
+        android:id="@+id/showmyNum"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="54dp"
+        android:layout_marginEnd="93dp"
+        android:text="TextView"
+        android:textColor="@color/blue"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/mynum"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/showmyLaundry"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="57dp"
+        android:text="TextView"
+        android:textColor="@color/blue"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/mylaundry"
+        app:layout_constraintTop_toBottomOf="@+id/showmyNum" />
+
+    <TextView
+        android:id="@+id/showmyName"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="93dp"
+        android:text="TextView"
+        android:textColor="@color/blue"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/mystore"
+        app:layout_constraintTop_toBottomOf="@+id/showmyLaundry" />
+
+    <TextView
+        android:id="@+id/showmyStatus"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="93dp"
+        android:text="TextView"
+        android:textColor="@color/blue"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/mystatus"
+        app:layout_constraintTop_toBottomOf="@+id/showmyName" />
+
+    <TextView
+        android:id="@+id/showmyplace"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="93dp"
+        android:text="TextView"
+        android:textColor="@color/blue"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/myreplace"
+        app:layout_constraintTop_toBottomOf="@+id/showmyStatus" />
+
+    <TextView
+        android:id="@+id/showmydetail"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="31dp"
+        android:layout_marginEnd="93dp"
+        android:text="TextView"
+        android:textColor="@color/blue"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/mydetail"
+        app:layout_constraintTop_toBottomOf="@+id/showmyplace" />
+
+    <Button
+        android:id="@+id/updateMyorder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="56dp"
+        android:text="complete"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.222"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mydetail" />
+
+    <Button
+        android:id="@+id/updateCost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="56dp"
+        android:text="cost"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.674"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mydetail" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

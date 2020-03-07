@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "217582982222",
+    "firebase_url": "https://suckpao-651bc.firebaseio.com",
+    "project_id": "suckpao-651bc",
+    "storage_bucket": "suckpao-651bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217582982222:android:8628e841af844b8f7c9f1f",
+        "android_client_info": {
+          "package_name": "com.example.nattapon.mysuckpaoBikeman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217582982222-rucrg8ko6c6mcrhjsmq25h98b9v01tio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjVM5Cx00SjLcrxZp-HGyLTtilaMyesTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217582982222-rucrg8ko6c6mcrhjsmq25h98b9v01tio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217582982222:android:18f4cd77f367e0227c9f1f",
+        "android_client_info": {
+          "package_name": "com.example.natthapon.mybikeman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217582982222-9ih80pb1tmu43o8je8sscm5klua85rrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.natthapon.mybikeman",
+            "certificate_hash": "d9d2e608741de3537e3b221828f9b71b74547540"
+          }
+        },
+        {
+          "client_id": "217582982222-rucrg8ko6c6mcrhjsmq25h98b9v01tio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjVM5Cx00SjLcrxZp-HGyLTtilaMyesTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217582982222-rucrg8ko6c6mcrhjsmq25h98b9v01tio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217582982222:android:4969ef043c842e047c9f1f",
+        "android_client_info": {
+          "package_name": "com.nattapon.appsuckpao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217582982222-i5tfjpknog4ujmfjqo57od3o7hjsq3fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nattapon.appsuckpao",
+            "certificate_hash": "195afb450d6551db2a14a718bc72fac03204dcc7"
+          }
+        },
+        {
+          "client_id": "217582982222-rucrg8ko6c6mcrhjsmq25h98b9v01tio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjVM5Cx00SjLcrxZp-HGyLTtilaMyesTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217582982222-rucrg8ko6c6mcrhjsmq25h98b9v01tio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217582982222:android:d0391d4b780da9807c9f1f",
+        "android_client_info": {
+          "package_name": "com.nattapon.bikeman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217582982222-rucrg8ko6c6mcrhjsmq25h98b9v01tio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjVM5Cx00SjLcrxZp-HGyLTtilaMyesTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217582982222-rucrg8ko6c6mcrhjsmq25h98b9v01tio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
